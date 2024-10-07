@@ -90,6 +90,14 @@ Some potential areas for future exploration include:
 
 This project provides a detailed analysis of data science salaries, offering valuable insights for professionals and companies in the field. The findings highlight the impact of experience level, job title, and geographic location on salaries, providing a comprehensive view of the data science job market.
 
+### Required Libraries
+
+- `matplotlib`: For creating static, animated, and interactive visualizations.
+- `numpy`: For numerical operations on arrays and matrices.
+- `pandas`: For data manipulation and analysis.
+- `plotly`: For interactive visualizations.
+- `seaborn`: For statistical data visualization built on top of Matplotlib.
+
 ## 💻 How to Use this Repository
 
 1. **Clone the Repository**: Clone the repository to your local machine using the command:
@@ -104,7 +112,7 @@ This project provides a detailed analysis of data science salaries, offering val
 
 3. **Install Required Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install matplotlib numpy pandas plotly seaborn
    ```
 
 4. **Run the Jupyter Notebooks**:
