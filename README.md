@@ -94,5 +94,27 @@ This project provides a detailed analysis of data science salaries, offering val
 
 1. **Clone the Repository**: Clone the repository to your local machine using the command:
    ```bash
-   git clone https://github.com/your-username/Data-Science-Salary-Analysis.git
+   git clone https://github.com/EvaRguez/Data_Salary_Analysis.git
+   ```
+
+2. **Navigate to the Project Directory**: 
+   ```bash
+   cd Data_Salary_Analysis
+   ```
+
+3. **Install Required Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Jupyter Notebooks**:
+   Open the notebooks in Jupyter or any compatible environment to explore the code and visualizations. Start with `Data_exploration.ipynb` for data exploration and proceed to `Data_exploration_grafic.ipynb` for visualizations.
+
+## 📧 Contact
+
+If you have any questions or suggestions, feel free to reach out via [email](evarodriguezceballos@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/eva-rodriguez-ceballos-/).
+
+---
+
+Thank you for visiting this repository! Happy exploring! 🚀
 
